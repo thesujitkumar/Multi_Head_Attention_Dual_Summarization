@@ -1,6 +1,3 @@
-# PyTorch implementation of Multi-head Attention Dual Summary model from the following paper:
-**Detecting Incongruent News Articles Using Multi-head Attention  Dual Summarization, AACL-IJCNLP 2022**
-
 ## Data Preprocessing:
 1. Collect FNC, ISOT and NELA Dataset as per source and  procedure reported in paper.
 
