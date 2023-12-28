@@ -1,6 +1,6 @@
 # Detecting Incongruent News Articles Using Multi-head Attention Dual Summarization
 
-This is the official implementation of the paper [Detecting Incongruent News Articles Using Multi-head Attention Dual Summarization](https://aclanthology.org/2022.aacl-main.70/) **Accepted and published in preeeding of ```AACL-IJCNLP-2022```**. If you use this code or our results in your research, we'd appreciate you cite our paper as following:
+This is the official implementation of the paper [Detecting Incongruent News Articles Using Multi-head Attention Dual Summarization](https://aclanthology.org/2022.aacl-main.70/) **Accepted and published in proceeding of ```AACL-IJCNLP-2022```**. If you use this code or our results in your research, we'd appreciate you cite our paper as following:
 
 
 ```
